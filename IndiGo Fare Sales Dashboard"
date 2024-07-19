@@ -1,0 +1,42 @@
+Title and Overview
+
+"IndiGo Fare Sales Dashboard"
+
+Linkedin : https://lnkd.in/dA4NRVjE
+
+Github : https://lnkd.in/d5-NimU9
+
+Datasets :https://lnkd.in/d4GqVcJk
+
+
+Creating a Power BI dashboard for IndiGo fare sales involves several steps. Here's a general outline of the process:
+
+Data Collection
+Gather the data needed for the dashboard. This may include:
+Flight schedules
+Ticket prices
+Sales data
+Customer data
+Promotions and discounts
+Competitor analysis
+
+Data Preparation
+
+Data Modeling
+Import the data into Power BI and create relationships between different tables
+
+Dashboard Design
+Testing and Deployment
+Title and Overview
+"IndiGo Fare Sales Dashboard"
+Trend Analysis Section
+Line Chart showing fare sales trend over time
+Route Comparison Section
+Bar Chart comparing fare sales across different routes
+Fare Class Distribution Section
+Pie Chart showing fare sales by class
+Geographic Analysis Section
+Map visualizing fare sales by region
+Detailed Data Section
+Table with detailed fare sales data and filters for further analysis
+This is a basic outline to get you started. For a more detailed and tailored dashboard, you would need to adapt it to the specific needs and data available for IndiGo's fare sales. If you need help with a specific part of the process or with implementing certain visualizations in Power BI,
